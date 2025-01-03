@@ -4,7 +4,7 @@ Just a place to backup and store my solutions.  I'm sure that better coders and 
 
 ## Why Do Project Euler?
 
-Solving the questions is fun, engages one's math brain and coding brain.  Just reading problems taxes my brain and is something I can only do with any focus or length of time having eaten and gotten a good night's rest.  I enjoy Project Euler to:
+Solving the questions is fun, engaging one's math and coding brain.  Just reading the problems taxes my brain.  It's something I can only do with any focus or length of time having eaten and gotten a good night's rest.  More specifically, I enjoy Project Euler to:
 - Refresh and review languages I already have some familiarity with.
 - Learn more about languages that I'm less familiary with.  As of 02025-01-03 this is more of a theoretical advantage in that I think that I've done most of my problem solving with Ruby.  But I've only solved 14 to date.
 - Improve my coding.  It's fun to refactor my code to make it faster and/or more readable and elegant. 
