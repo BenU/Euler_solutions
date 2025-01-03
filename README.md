@@ -1,6 +1,6 @@
 # Unger's Project Euler Solution Page
 
-Just a place to backup and store my solutions.  I'm sure that better coders and writers will have better pages but this one's mine.
+Just a place to backup and store my solutions.  I'm sure that better coders and writers will have better pages but this one's mine.  Also, I understand that it's bad form to publish recently released problems but I'm way behind and slow so don't think there's a problem here.  That said, I could be wrong.  Reach out if you have other ideas or philosophies I should consider.
 
 ## Why Do Project Euler?
 
