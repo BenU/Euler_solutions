@@ -1,0 +1,72 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.bak
+
+# C/C++
+*.o
+*.obj
+*.exe
+
+# Go
+*.exe
+*.out
+vendor/
+
+# Haskell
+*.hi
+*.o
+.stack-work/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# MATLAB/Octave
+*.mat
+*.mexa64
+*.mexmaci64
+*.mexw64
+
+# Node.js / JavaScript / TypeScript
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# R
+*.RData
+*.Rhistory
+
+# Rails
+tmp/
+log/
+public/assets
+public/packs
+node_modules/
+
+# Ruby
+*.gem
+*.rbc
+vendor/bundle
+.bundle/
+Gemfile.lock
+
+# Rust
+target/
+*.rs.bk
+
+# Scala
+*.class
+target/
