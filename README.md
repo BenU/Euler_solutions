@@ -20,7 +20,7 @@ Yeah, I have that problem, too.  CoPilot seems like an all or nothing situation 
 ## Should everyone know vim?
 
 Yes.  Everyone should have at least a conversational knowledge of vim and at least basic usage (beyond :q).  There are [more articulate vim advocates](https://www.bizstream.com/blog/why-every-developer-should-learn-vim/) than I am but I'd say advantages of knowing some vim include:
-- **Speed! -- no need to move hands to use mouse or trackpad
+- **Speed!** -- no need to move hands to use mouse or trackpad
 - Universally available -- at least vi available on unix based systems
 - customability 
 
